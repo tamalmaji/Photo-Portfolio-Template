@@ -1,0 +1,25 @@
+body{
+    font-size: 15px
+}
+.p-m{
+    padding: 0;
+    margin: 0;
+}
+.bg-position{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+}
+.padding{
+    padding: 12px 24px;
+    letter-spacing: 4px;
+    
+}
+/* navbar */
+.bg-position-2{
+    position: absolute;
+    left: 50%;
+    bottom: 0%;
+    transform: translate(-50%,0%);
+}
